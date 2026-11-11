@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lixu//Birthday Invite//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lixu-19th-birthday-20261206@invite
+DTSTAMP:20261105T130000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Lixu's 19th birthday
+LOCATION:Chapter King's Cross\, 200 Pentonville Road\, London N1 9JP
+DESCRIPTION:Dress code: elegant and sophisticated\, from smart casual to cocktail. Walk in through the front doors of the tower and find us in the private space in the lobby. Please do not bring alcohol. No smoking or vaping inside.
+END:VEVENT
+END:VCALENDAR
